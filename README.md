@@ -21,6 +21,8 @@ npm start
 ```
 Task lists 
 
-- [x]  Create React App- [[x] Made remove and add functionality-- [x] Add git 
+- [x]  Create React App
+- [x] Made remove and add functionality
+- [x] Add git 
 - [x] Pushed in Guthub
 - [x] Deploy the code in Netlify
